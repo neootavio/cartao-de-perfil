@@ -29,7 +29,7 @@ body {
 
 #foto {
     position: fixed;
-    transform: translate(150%, 60%);
+    transform: translate(150%, 100%);
     border: 5px solid white;
     border-radius: 50%;
     width: 100px;
@@ -41,7 +41,7 @@ body {
 #topo{
     background-image: url(images/bg-pattern-card.svg);
     border-radius: 12px 12px 0 0;
-    height: 110px;
+    height: 150px;
     width: 400px;
 }
 
