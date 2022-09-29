@@ -77,16 +77,12 @@ strong {
         font-size: 13px;
     }
 
+    
     body {
         background-color: hsl(185, 75%, 39%);
         background-image: url(images/bg-pattern-bottom.svg);
         background-position: bottom left;
         background-repeat: repeat;
-        margin: auto;
-        text-align: center;
-        align-items: center;
-        align-content: center;
-        width: 375px;
     }
     
     .container {
